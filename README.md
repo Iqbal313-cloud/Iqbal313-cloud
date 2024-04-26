@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Iqbal
 ======================================================================================================================================
 
-Web Development MERN
+Junior MERN Developer
 ---------------
 
 🌱 Currently exploring the intricacies of MongoDB, Express.js, React, and Node.js (MERN), I'm on a quest to master the art of building robust, scalable, and interactive web applications. 💻 Aspiring to blend my creativity with cutting-edge technology, I'm committed to honing my skills in frontend design, backend development, and everything in between. 🚀 Join me as I embark on this exhilarating adventure, diving deep into the world of JavaScript, crafting elegant solutions, and transforming ideas into reality, one line of code at a time. 📫 Let's connect and learn together! Feel free to reach out for collaborations, projects, or just to geek out about all things MERN stack.
