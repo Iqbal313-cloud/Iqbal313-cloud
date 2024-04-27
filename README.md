@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Iqbal
 ======================================================================================================================================
 
-Trainee MERN Developer
+MERN stack Trainee
 ---------------
 
 🌱 Currently exploring the intricacies of MongoDB, Express.js, React, and Node.js (MERN), I'm on a quest to master the art of building robust, scalable, and interactive web applications. 💻 Aspiring to blend my creativity with cutting-edge technology, I'm committed to honing my skills in frontend design, backend development, and everything in between. 
